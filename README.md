@@ -17,3 +17,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKRISHNASRIKAR&theme=tokyo-night&hide_border=true" />
 </p>
+
+![Letterboxd Stats](https://letterboxd-card-backend.vercel.app/api/card?user=akrishnasrikar&theme=default&width=480&count=4)
